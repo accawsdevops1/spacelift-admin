@@ -1,0 +1,8 @@
+id: demo-stack
+name: Demo Stack
+repository: accawsdevops1/spacelift
+branch: main
+space: root
+project_root: terraform/
+terraform_version: 1.5.7
+runner_image: public.ecr.aws/spacelift/runner:latest
